@@ -1,0 +1,53 @@
+{
+  "aplikasi":{
+    "G1":{
+      "id":0,
+      "package":"com.tencent.ig",
+      "status":"امن",
+      "title":"PUBG GLOBAL",
+      "version":"4.0.0"
+    },
+    "G2":{
+      "id":1,
+      "package":"com.pubg.krmobile",
+      "status":"امن",
+      "title":"PUBG KOREA",
+      "version":"4.0.0"
+    },
+    "G3":{
+      "id":2,
+      "package":"com.vng.pubgmobile",
+      "status":"أمن",
+      "title":"PUBG VIETNAM",
+      "version":"4.0.0"
+    },
+    "G4":{
+      "id":3,
+      "package":"com.rekoo.pubgm",
+      "status":"أمن",
+      "title":"PUBG TAIWAN",
+      "version":"4.0.0"
+      },
+    "G5":{
+      "id":4,
+      "package":"com.pubg.imobile",
+      "status":"أمن",
+      "title":"PUBG INDIA",
+      "version":"4.0.0"
+    }
+  },
+  "loader":{
+    "BGMI":{
+      "gamename":"BGMI",
+      "name":"libbgmi",
+      "url":"https://firebasestorage.googleapis.com/v0/b/dalton-loader-vip.appspot.com/o/libbgmi.so?alt=media&amp;token=67407d1e-0e66-4229-9ddd-dd18526d54ae",
+      "version":1
+    },
+    "PUBGM":{
+      "gamename":"PUBGM",
+      "name":"libpubgm.so",
+      "url":"https://firebasestorage.googleapis.com/v0/b/dalton-loader-vip.appspot.com/o/libpubgm.so?alt=media&amp;token=6b02fcf6-ca42-4812-beda-7e584eb6f82a",
+      "version":1
+    }
+  }
+}
